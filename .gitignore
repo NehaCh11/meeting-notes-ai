@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.pdb
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# API keys / config
+.env
+config.json
+
+# Streamlit cache
+.streamlit/
+
+# FFmpeg binaries (if you added locally)
+ffmpeg/
+
+# Temp files
+*.tmp
+*.temp
